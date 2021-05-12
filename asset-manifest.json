@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Desafio-10-GoRestaurant-Web/static/js/main.994e66fb.chunk.js",
+    "main.js.map": "/Desafio-10-GoRestaurant-Web/static/js/main.994e66fb.chunk.js.map",
+    "runtime-main.js": "/Desafio-10-GoRestaurant-Web/static/js/runtime-main.727befc9.js",
+    "runtime-main.js.map": "/Desafio-10-GoRestaurant-Web/static/js/runtime-main.727befc9.js.map",
+    "static/js/2.994f917c.chunk.js": "/Desafio-10-GoRestaurant-Web/static/js/2.994f917c.chunk.js",
+    "static/js/2.994f917c.chunk.js.map": "/Desafio-10-GoRestaurant-Web/static/js/2.994f917c.chunk.js.map",
+    "index.html": "/Desafio-10-GoRestaurant-Web/index.html",
+    "precache-manifest.c7ed5d64ce73f7bd0aecff1aa3644133.js": "/Desafio-10-GoRestaurant-Web/precache-manifest.c7ed5d64ce73f7bd0aecff1aa3644133.js",
+    "service-worker.js": "/Desafio-10-GoRestaurant-Web/service-worker.js",
+    "static/js/2.994f917c.chunk.js.LICENSE.txt": "/Desafio-10-GoRestaurant-Web/static/js/2.994f917c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Desafio-10-GoRestaurant-Web/static/media/logo.633a71f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.727befc9.js",
+    "static/js/2.994f917c.chunk.js",
+    "static/js/main.994e66fb.chunk.js"
+  ]
+}
